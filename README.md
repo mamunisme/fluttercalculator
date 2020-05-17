@@ -1,11 +1,9 @@
 # FlutterCalculator
 
 Flutter Calculator
+- melakukan perhitungan matematika dasar (+, -, *, /).
 
-- Has a responsive UI based on percentages.
-- Performs the 4 basic operations (+, -, *, /).
-
-Package(s) Used:
-- 'math_expressions' for solving math equations.
+Package yang digunakan
+- 'math_expressions'.
 
 ![Layout ScreenShot](/images/ss_01.jpeg)
